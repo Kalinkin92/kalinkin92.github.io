@@ -15,7 +15,7 @@ class App extends Component {
         </header>
           <div className="App-body">
               <p className="App-intro">
-                  ибав вас в рiт
+                  желае вам добра
               </p>
               <img src={gif} alt="СЛАВА УРАИНИ" />
               <p className="App-intro">Слава Україні!
